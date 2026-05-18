@@ -1,0 +1,23 @@
+# Offensive Security Intro - TryHackMe
+
+## Overview
+This room introduced the basics of offensive security 
+
+## Topics Learned
+Dirb command
+
+## Key Concepts
+Dirb command
+
+### Offensive Security
+Offensive security focuses on testing systems by simulating attacks to identify vulnerabilities.
+
+## My Learning Notes
+- Always obtain permission before testing systems
+- Offensive security helps organizations find weaknesses before attackers do
+- Cybersecurity includes both offensive and defensive roles
+- Dirb command (dirb) is a tool used in cybersecurity for directory and file brute-forcing on websites.
+- syntax :- dirb http://example.com
+
+## Status
+Completed successfully on TryHackMe.
