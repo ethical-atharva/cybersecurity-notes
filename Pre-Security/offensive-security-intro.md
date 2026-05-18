@@ -26,6 +26,7 @@ Offensive security focuses on testing systems by simulating attacks to identify 
         backup files,
         login pages,
         and sensitive endpoints on a web server.
+- Syntax :- dirb http://example.com
 - Cybersecurity includes both offensive and defensive roles
 
 ## Status
